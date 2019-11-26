@@ -1,5 +1,7 @@
-<!doctype html>
-<html lang="en">
+<?php 
+	echo "test";
+?>
+<html>
 <head>
 	<meta charset="utf-8">
 	<title></title>
@@ -19,7 +21,6 @@ canvas {
 </style>
 </head>
 <body>
-<?php echo "test";?>
 <script>
 
 </script>
