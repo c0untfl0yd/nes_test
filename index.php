@@ -1,5 +1,5 @@
 <?php 
-	echo "test";
+	//echo "test";
 ?>
 <html>
 <head>
@@ -32,6 +32,9 @@ canvas {
 		<div class="nes_screen_wrapper" id="nes_screen_wrapper">
 			<canvas id="nes_screen" width="256" height="240"></canvas>
 		</div>
+		<?php 
+			echo "controls ←	↑	→	↓	Z	Enter";
+		?>
 		
 <script>
 
