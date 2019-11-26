@@ -19,7 +19,7 @@ canvas {
 </style>
 </head>
 <body>
-
+<?php echo "test";?>
 <script>
 
 </script>
